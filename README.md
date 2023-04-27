@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning new technical skills **Excel, Tableau, Python**
 
-- 👨‍💻 All of my projects are available at [https://amarikeo.github.io/portfolio/](https://amarikeo.github.io/keo/)
+- 👨‍💻 All of my projects are available at [https://amarikeo.github.io/portfolio/](https://amarikeo.github.io/portfolio/)
 
 - 📫 How to reach me **amarikeo.ak@gmail.com**
 
