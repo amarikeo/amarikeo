@@ -1,4 +1,5 @@
-![Screenshot (230)](https://user-images.githubusercontent.com/129122755/232258376-739aeb79-887d-447b-9a22-4406657bb82a.png)
+![Black Simple Elegant Personal LinkedIn Banner](https://user-images.githubusercontent.com/129122755/234960104-d270aa72-9997-44d1-ae4c-7c6121396ddc.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Amari Keo</h1>
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning new technical skills **Excel, Tableau, Python**
 
-- 👨‍💻 All of my projects are available at [https://amarikeo.github.io/keo/](https://amarikeo.github.io/keo/)
+- 👨‍💻 All of my projects are available at [https://amarikeo.github.io/portfolio/](https://amarikeo.github.io/keo/)
 
 - 📫 How to reach me **amarikeo.ak@gmail.com**
 
