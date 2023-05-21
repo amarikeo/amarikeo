@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on analyzing Global COVID-19 Data and Danny Ma's Case Study1 [https://github.com/amarikeo/PortfolioProject-Data-Exploration-In-SQL](https://github.com/amarikeo/PortfolioProject-Data-Exploration-In-SQL) | https://github.com/amarikeo/PortfolioProject-Case-Study1-Danny-s-Diner 
 
-- 🌱 I’m currently learning new technical skills **Excel, Tableau, Python**
-
 - 👨‍💻 All of my projects are available at [(https://amarikeo.carrd.co/#)](https://amarikeo.carrd.co/#))
 
 - 📫 How to reach me **amarikeo.ak@gmail.com**
